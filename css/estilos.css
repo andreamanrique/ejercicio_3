@@ -1,0 +1,50 @@
+#personaje
+{
+	border: 5px solid #124567;
+	width: 90px;
+	height: 110px;	
+	box-shadow: 5px 5px 5px 5px;
+	border-radius: 20px;
+}
+
+#boton
+{
+	background: -webkit-radial-gradient(bottom, red, purple);
+	position: relative;
+    top: 30px;
+    color:black;
+    font-family: cursive;
+   	border-radius: 5px;
+   	border: solid black;
+}
+
+#velocidad
+{
+	background: -webkit-radial-gradient(bottom, red, purple);
+	position: relative;
+    top: 30px;
+    width: 5%;
+    color:black;
+    font-family: cursive;
+    border-radius: 5px;
+    border: solid black;
+}
+
+.iniciar
+{
+    background: url(../img/ken.png) no-repeat top left;
+}
+
+.paso_1{ background-position: -622 0 ;} 
+.paso_2{ background-position: -605px 0 ;} 
+.paso_3{ background-position: -590px 0;} 
+.paso_4{ background-position: -520px 0;} 
+.paso_5{ background-position: -470px 0;} 
+.paso_6{ background-position: -410px 0;} 
+.paso_7{ background-position: -320px 0;} 
+.paso_8{ background-position: -270px 0;} 
+.paso_9{ background-position: -210px 0;}
+.paso_10{ background-position: -150px 0;} 
+.paso_11{ background-position: -105px 0;} 
+.paso_12{ background-position: -70px 0;}  
+.paso_13{ background-position: 0 0;} 
